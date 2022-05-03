@@ -35,7 +35,7 @@ Diagram : [link](https://raw.githubusercontent.com/gregwell/university-notes/mai
 - created git hook *commit-msg* which does not allow a commit message that does not contain a keyword at the beginning
 
 ```bash
-word="GS306504"
+word="FZ307698"
 isPresent=$(grep ^"$word" $1)
 
 if [[ -z $isPresent ]]
@@ -90,13 +90,13 @@ git clone https://github.com/InzynieriaOprogramowaniaAGH/MIFT2021.git
 
 **Ex. 1**
 
-`git checkout -b Grupa05-GS306504_Lab04` - created a new branch 
+`git checkout -b Grupa03-FZ307698_Lab04` - created a new branch 
 
-`docker login -u gregwell` - signed in to *dockerhub.com*
+`docker login -u filipmikolajzeglen` - signed in to *dockerhub.com*
 
-`docker build -t gregwell/grupa05gs306504lab03:latest .` - built a docker image
+`docker build -t filipmikolajzeglen/grupa03FZ307698lab03:latest .` - built a docker image
 
-`docker push gregwell/grupa05gs306504lab03` -pushed the image to a registry
+`docker push filipmikolajzeglen/grupa03FZ307698lab03` -pushed the image to a registry
 
 **Ex. 2-5**
 
@@ -231,7 +231,7 @@ docker run --name jenkins-blueocean --rm --detach `
 - created new jenkins job *freestyle* of type
 - configured to execute the following shell scirpt as a build step:
 ```
-cd Grupy/Grupa05/GS306504/Lab04
+cd Grupy/Grupa03/FZ307698/Lab04
 pwd
 ls
 docker --version
@@ -664,7 +664,7 @@ spec:
     spec:
       containers:
       - name: komunikator
-        image: gregwell/nodechatnuevo
+        image: filipmikolajzeglen/nodechatnuevo
         ports:
         - containerPort: 3000
 ```

@@ -1,0 +1,87 @@
+# University notes
+The repository contains a whole bunch of my old-school-style handcrafted notes, some docs-generated pdfs and a few modern written in Markdown (which can be corrected or even further developed in the future by the community with pull requests!)
+
+## File tree:
+Generated with [md-file-tree](https://github.com/michalbe/md-file-tree)
+
+- 📂 __english__
+  - 📂 __java__
+    - 📄 [javafx\-notes.md](english/java/javafx-notes.md)
+  - 📂 __javascript__
+    - 📄 [README.md](english/javascript/README.md)
+    - 📂 __currency\-converter__
+      - 📄 [currency\-converter.md](english/javascript/currency-converter/currency-converter.md)
+    - 📄 [javascript.md](english/javascript/javascript.md)
+    - 📄 [react.md](english/javascript/react.md)
+    - 📄 [speeding\-up\-spa.md](english/javascript/speeding-up-spa.md)
+  - 📂 __devops__
+    - 📄 [devops.md](english/devops/devops.md)
+  - 📂 __old\-school\-style\-notes__
+    - 📂 __computer\-networks__
+      - 📄 [computer\-networks.pdf](english/old-school-style-notes/computer-networks/computer-networks.pdf)
+    - 📂 __cs\-fundamentals__
+      - 📄 [cs\-fundamentals\-graph\-theory.pdf](english/old-school-style-notes/cs-fundamentals/cs-fundamentals-graph-theory.pdf)
+    - 📂 __heat\-and\-mass\-transfer__
+      - 📄 [heat\-and\-mass\-transfer\-examples.pdf](english/old-school-style-notes/heat-and-mass-transfer/heat-and-mass-transfer-examples.pdf)
+      - 📄 [heat\-and\-mass\-transfer\-theory.pdf](english/old-school-style-notes/heat-and-mass-transfer/heat-and-mass-transfer-theory.pdf)
+    - 📂 __numerical\-methods__
+      - 📄 [numerical\-methods.pdf](english/old-school-style-notes/numerical-methods/numerical-methods.pdf)
+- 📂 __polish__
+  - 📂 __java__
+    - 📄 [java.md](polish/java/java.md)
+  - 📂 __old\-school\-style\-notes__
+    - 📂 __algebra__
+      - 📄 [algebra\-macierze.pdf](polish/old-school-style-notes/algebra/algebra-macierze.pdf)
+      - 📄 [algebra\-przestrzenie.pdf](polish/old-school-style-notes/algebra/algebra-przestrzenie.pdf)
+      - 📄 [algebra\-zespolone.pdf](polish/old-school-style-notes/algebra/algebra-zespolone.pdf)
+    - 📂 __analiza\-matematyczna__
+      - 📄 [analiza\-calki.pdf](polish/old-school-style-notes/analiza-matematyczna/analiza-calki.pdf)
+      - 📄 [analiza\-cuda\-na\-kiju.pdf](polish/old-school-style-notes/analiza-matematyczna/analiza-cuda-na-kiju.pdf)
+      - 📄 [analiza\-fwz.pdf](polish/old-school-style-notes/analiza-matematyczna/analiza-fwz.pdf)
+      - 📄 [analiza\-szeregi\-granice.pdf](polish/old-school-style-notes/analiza-matematyczna/analiza-szeregi-granice.pdf)
+    - 📂 __architektury\-komputerow__
+      - 📄 [architektury\-komputerow.pdf](polish/old-school-style-notes/architektury-komputerow/architektury-komputerow.pdf)
+    - 📂 __chemia__
+      - 📄 [chemia.pdf](polish/old-school-style-notes/chemia/chemia.pdf)
+    - 📂 __fizyka__
+      - 📄 [fizyka\-drgania.pdf](polish/old-school-style-notes/fizyka/fizyka-drgania.pdf)
+      - 📄 [fizyka\-dynamika.pdf](polish/old-school-style-notes/fizyka/fizyka-dynamika.pdf)
+      - 📄 [fizyka\-kinematyka.pdf](polish/old-school-style-notes/fizyka/fizyka-kinematyka.pdf)
+      - 📄 [fizyka2\-elektrostatyka.pdf](polish/old-school-style-notes/fizyka/fizyka2-elektrostatyka.pdf)
+      - 📄 [fizyka2\-magnetyzm.pdf](polish/old-school-style-notes/fizyka/fizyka2-magnetyzm.pdf)
+      - 📄 [fizyka2\-optyka.pdf](polish/old-school-style-notes/fizyka/fizyka2-optyka.pdf)
+      - 📄 [fizyka2\-termodynamika.pdf](polish/old-school-style-notes/fizyka/fizyka2-termodynamika.pdf)
+      - 📄 [fizyka2\-wspolczesna.pdf](polish/old-school-style-notes/fizyka/fizyka2-wspolczesna.pdf)
+    - 📂 __matematyka\-matura__
+      - 📄 [README.md](polish/old-school-style-notes/matematyka-matura/README.md)
+      - 📂 __src__
+        - 📄 [01 Algebra.pdf](polish/old-school-style-notes/matematyka-matura/src/01%20Algebra.pdf)
+        - 📄 [02 Liczby rzeczywiste.pdf](polish/old-school-style-notes/matematyka-matura/src/02%20Liczby%20rzeczywiste.pdf)
+        - 📄 [03 Funkcje.pdf](polish/old-school-style-notes/matematyka-matura/src/03%20Funkcje.pdf)
+        - 📄 [04 Funkcja liniowa.pdf](polish/old-school-style-notes/matematyka-matura/src/04%20Funkcja%20liniowa.pdf)
+        - 📄 [05 Funkcja kwadratowa.pdf](polish/old-school-style-notes/matematyka-matura/src/05%20Funkcja%20kwadratowa.pdf)
+        - 📄 [06 Wielomiany.pdf](polish/old-school-style-notes/matematyka-matura/src/06%20Wielomiany.pdf)
+        - 📄 [07 Funkcje wymierne.pdf](polish/old-school-style-notes/matematyka-matura/src/07%20Funkcje%20wymierne.pdf)
+        - 📄 [08 Funkcja wykładnicza.pdf](polish/old-school-style-notes/matematyka-matura/src/08%20Funkcja%20wyk%C5%82adnicza.pdf)
+        - 📄 [09 Funkcja logarytmiczna.pdf](polish/old-school-style-notes/matematyka-matura/src/09%20Funkcja%20logarytmiczna.pdf)
+        - 📄 [10 Trygonometria.pdf](polish/old-school-style-notes/matematyka-matura/src/10%20Trygonometria.pdf)
+        - 📄 [11 Ciągi.pdf](polish/old-school-style-notes/matematyka-matura/src/11%20Ci%C4%85gi.pdf)
+        - 📄 [12 Planimetria.pdf](polish/old-school-style-notes/matematyka-matura/src/12%20Planimetria.pdf)
+        - 📄 [13 geo analityczna.pdf](polish/old-school-style-notes/matematyka-matura/src/13%20geo%20analityczna.pdf)
+        - 📄 [14 Stereometria.pdf](polish/old-school-style-notes/matematyka-matura/src/14%20Stereometria.pdf)
+        - 📄 [15 Pochodna.pdf](polish/old-school-style-notes/matematyka-matura/src/15%20Pochodna.pdf)
+        - 📄 [17 Rachunek prawdopodobienstwa.pdf](polish/old-school-style-notes/matematyka-matura/src/17%20Rachunek%20prawdopodobienstwa.pdf)
+        - 📄 [X pro tipy.pdf](polish/old-school-style-notes/matematyka-matura/src/X%20pro%20tipy.pdf)
+        - 📄 [XX mapa funkcji.pdf](polish/old-school-style-notes/matematyka-matura/src/XX%20mapa%20funkcji.pdf)
+    - 📂 __podstawy\-informatyki__
+      - 📄 [pi\-grafy.pdf](polish/old-school-style-notes/podstawy-informatyki/pi-grafy.pdf)
+      - 📄 [pi\-logika.pdf](polish/old-school-style-notes/podstawy-informatyki/pi-logika.pdf)
+    - 📂 __podstawy\-inzynierii\-materialowej__
+      - 📄 [podstawy\-inzynierii\-materialowej\-mapa\-mysli.jpg](polish/old-school-style-notes/podstawy-inzynierii-materialowej/podstawy-inzynierii-materialowej-mapa-mysli.jpg)
+      - 📄 [podstawy\-inzynierii\-materialowej.pdf](polish/old-school-style-notes/podstawy-inzynierii-materialowej/podstawy-inzynierii-materialowej.pdf)
+    - 📂 __rownania\-rozniczkowe__
+      - 📄 [rownania\-rozniczkowe.pdf](polish/old-school-style-notes/rownania-rozniczkowe/rownania-rozniczkowe.pdf)
+  - 📂 __parallel\-programming__
+    - 📄 [README.md](polish/parallel-programming/README.md)
+    - 📄 [parallel\-programming\-reports.md](polish/parallel-programming/parallel-programming-reports.md)
+    - 📄 [parallel\-programming\-theory.md](polish/parallel-programming/parallel-programming-theory.md)
